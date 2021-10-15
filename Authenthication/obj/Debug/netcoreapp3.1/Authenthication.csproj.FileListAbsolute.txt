@@ -1,0 +1,15 @@
+C:\Users\Maulana\source\repos\Authenthication\Authenthication\bin\Debug\netcoreapp3.1\Authenthication.exe
+C:\Users\Maulana\source\repos\Authenthication\Authenthication\bin\Debug\netcoreapp3.1\Authenthication.deps.json
+C:\Users\Maulana\source\repos\Authenthication\Authenthication\bin\Debug\netcoreapp3.1\Authenthication.runtimeconfig.json
+C:\Users\Maulana\source\repos\Authenthication\Authenthication\bin\Debug\netcoreapp3.1\Authenthication.runtimeconfig.dev.json
+C:\Users\Maulana\source\repos\Authenthication\Authenthication\bin\Debug\netcoreapp3.1\Authenthication.dll
+C:\Users\Maulana\source\repos\Authenthication\Authenthication\bin\Debug\netcoreapp3.1\Authenthication.pdb
+C:\Users\Maulana\source\repos\Authenthication\Authenthication\obj\Debug\netcoreapp3.1\Authenthication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maulana\source\repos\Authenthication\Authenthication\obj\Debug\netcoreapp3.1\Authenthication.AssemblyInfoInputs.cache
+C:\Users\Maulana\source\repos\Authenthication\Authenthication\obj\Debug\netcoreapp3.1\Authenthication.AssemblyInfo.cs
+C:\Users\Maulana\source\repos\Authenthication\Authenthication\obj\Debug\netcoreapp3.1\Authenthication.csproj.CoreCompileInputs.cache
+C:\Users\Maulana\source\repos\Authenthication\Authenthication\obj\Debug\netcoreapp3.1\Authenthication.dll
+C:\Users\Maulana\source\repos\Authenthication\Authenthication\obj\Debug\netcoreapp3.1\Authenthication.pdb
+C:\Users\Maulana\source\repos\Authenthication\Authenthication\obj\Debug\netcoreapp3.1\Authenthication.genruntimeconfig.cache
+C:\Users\Maulana\source\repos\Authenthication\Authenthication\obj\Debug\netcoreapp3.1\Authenthication.csproj.AssemblyReference.cache
+C:\Users\Maulana\source\repos\Authenthication\Authenthication\bin\Debug\netcoreapp3.1\BCrypt.Net-Core.dll
